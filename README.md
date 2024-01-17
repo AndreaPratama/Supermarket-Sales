@@ -47,7 +47,7 @@ The dashboard presents an analysis of sales based on product types and the corre
 - Dashboard
 - Corelation Quantity & Gross Margin
 
-![](SuperstoreSalesNew.png)
+![](SupermarketSales.png)
 
 _You can interact with report here [Novypro](https://www.novypro.com/project/supermarket-sales-1)_
 
